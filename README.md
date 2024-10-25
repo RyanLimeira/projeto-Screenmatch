@@ -1,4 +1,4 @@
-## Descrição do Projeto Screenmatch
+##Projeto Screenmatch
 
 O **Projeto Screenmatch** é uma aplicação desenvolvida em Java que permite a consulta e gerenciamento de informações sobre séries de TV. Através de uma interface de linha de comando, o usuário pode buscar por séries, explorar suas temporadas e episódios, e obter detalhes como avaliações e datas de lançamento.
 
